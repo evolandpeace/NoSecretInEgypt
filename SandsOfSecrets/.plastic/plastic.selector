@@ -1,0 +1,4 @@
+repository "SandsOfSecrets@gameoff_24@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
